@@ -2,7 +2,7 @@
 	"name": "my-set",
 	"version": "1.0.0",
 	"description": "A class that is very similar to ES6 is Set.",
-	"main": "solution/index.js",
+	"main": "description.js",
 	"scripts": {
 		"test": "jest"
 	},
